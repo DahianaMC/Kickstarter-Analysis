@@ -69,7 +69,7 @@ More aspects to be considered for the evaluation:
 
 • Evaluate the pledges with goals to give an idea where you can increase the goals and where you need to decrease those.
 
-• Make a relation between successful goals and backers could give an idea where people is more willing to put donations.
+• Making a relation between successful goals and backers could give an idea where people is more willing to put donations.
 
 Limitations of the data base:
 ---

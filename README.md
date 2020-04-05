@@ -51,7 +51,7 @@ More aspects to be considered for the evaluation:
 
 •	Launch Date.
 
-•	Duration of the campaign
+•	Duration of the campaign.
 
 •	Evaluate the goals that were successful with goals campaign higher than $45000 (include aspects mentioned above) to make more similar campaigns in the future.
 
@@ -65,7 +65,7 @@ More aspects to be considered for the evaluation:
 
 •	Record the time the goal was reached.
 
-•	Look for goals that were met quickly and present the results by category.  Client could increase the goal for this type of categories or just make more events within those catgories in the future.  Also you need to look for the demographics and cities.
+•	Look for goals that were met quickly and present the results by category.  Client could increase the goal for this type of categories or just make more events within those categories in the future.  Also you need to look for the demographics and cities.
 
 • Evaluate the pledges with goals to give an idea where you can increase the goals and where you need to decrease those.
 

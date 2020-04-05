@@ -19,9 +19,9 @@ Conclusions:
 
 •	More than 73% of the goals were successful in goals less than $4999.  A total of 529 goals of 720 were successful (73%).
 
-•	Goals between $40000 and $44999 appears to be more successful, but need to be considered only 3 goals are within this range.  67% of the goals campaign were successful.
-
 •	In general goals higher than $15000 have more chances to failed.  The number of goal campaigns higher than $ 15000 are 86 of 1047 (8%).  But need to be considered if one of the goals is met in this range, this can contribute more than several goals together in the range less than $14999. 
+
+•	Goals between $40000 and $44999 appears to be more successful, but need to be considered only 3 goals are within this range.  67% of the goals campaign were successful.
 
 •	Goals higher than $45000 have a higher chance to fail, 15 goals failed of 17 (88%).
 
@@ -36,6 +36,8 @@ Conclusions
 
 •	Months from May to July show the highest successful theater events.  Looks like summer is a good time to launch Theater seasons.
 
+•	36% of the theater events failed from 2009 to 2017.
+
 •	Only 3% of the theater events were canceled from 2009 to 2017.
 
 
@@ -45,13 +47,13 @@ More aspects to be considered for the evaluation:
 
 •	Location.
 
-•	Type of play (comedic, drama).
+•	Type of category with successful goals.
 
 •	Launch Date.
 
 •	Duration of the campaign
 
-•	Evaluate the goals that were success with goals campaign higher than $45000 (include aspects mentioned above) to make more similar campaigns in the future.
+•	Evaluate the goals that were successful with goals campaign higher than $45000 (include aspects mentioned above) to make more similar campaigns in the future.
 
 •	Comparing duration and goal will help for the evaluation.
 
@@ -61,10 +63,23 @@ More aspects to be considered for the evaluation:
  
 •	Evaluate the canceled theater events and find the reason for cancelation.  Look if the goal was too high and when the event was launched.
 
+•	Record the time the goal was reached.
+
+•	Look for goals that were met quickly and present the results by category.  Client could increase the goal for this type of categories or just make more events within those catgories in the future.  Also you need to look for the demographics and cities.
+
+• Evaluate the pledges with goals to give an idea where you can increase the goals and where you need to decrease those.
+
+• Make a relation between successful goals and backers could give an idea where people is more willing to put donations.
 
 Limitations of the data base:
 ---
-•	Include the time the goal was reached from the time was launched.
+•	Time the goal was reached from the time was launched is not included.
 
-•	It will be good to have the city for demographics, population.  Since the dataset is made by Country the dataset will be huge if the cities were included.  At least the largest cities or cities were most of the goals were met should be included.
+•	It will be good to have the cities for demographics, population.  Since the dataset is made by Country the dataset will be huge if the cities were included.  At least the largest cities or cities were most of the goals were met should be included.
+
+• Cost to collect more data to update the current data set. 
+
+•	Spending more time in the evaluation make the analysis to be more costly.
+
+•	The assumptions of how the database was created are not included.  
 

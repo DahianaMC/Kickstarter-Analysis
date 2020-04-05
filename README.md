@@ -8,7 +8,7 @@ Performing analysis on Kickstarter data to uncover trends
 Analysis of Outcomes by Goals and Launch Date
 ---
 Outcome Based on Goals Chart
-![Outcomes Based on Goals Chart](https://github.com/DahianaMC/Kickstater-Analysis-Module-1-Challenge/blob/master/Outcomes%20Based%20on%20Goals%20Chart.png)
+![Outcomes Based on Goals Chart](https://github.com/DahianaMC/Kickstarter-Analysis/blob/master/Outcomes%20Based%20on%20Goals%20Chart.png)
 Conclusions:
 ---
 •	None of the goals were canceled.
@@ -27,7 +27,7 @@ Conclusions:
 
 
 Outcomes Based on Launch Date Chart 
-![Outcomes Based on Launch Date Chart](https://github.com/DahianaMC/Kickstater-Analysis-Module-1-Challenge/blob/master/Outcomes%20Based%20on%20Launch%20Date%20Chart.png)
+![Outcomes Based on Launch Date Chart](https://github.com/DahianaMC/Kickstarter-Analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date%20Chart.png)
 Conclusions
 ---
 •	In general, there were more successful theater events than failed and canceled together during all years. A total of 839 theater events of 1369 were successful (61%).
